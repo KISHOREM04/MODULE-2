@@ -1,6 +1,6 @@
 # Ex.No:2
 # Ex.Name: Write a CPP program to overload the (+) operator to add two objects both the objects will have the details of a Box i.e their height, length, breadth, and calculate their volume and then using the overloaded operator Add the length, breadth and height of the two objects and store into another object and calculate the volume of the third object.
-## Date:
+## Date: 14/08/2025
 ## Aim:
 To write a C++ program to overload the + operator for adding two objects of a Box class. Each object contains height, length, and breadth. After addition, compute the volume of the resultant object.
 
