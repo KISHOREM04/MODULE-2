@@ -1,6 +1,6 @@
 # Ex.No:3
 # Ex.Name: Write A CPP Program to create class  Square and calculate the volume of the Square, make use of static member variable in the class Square.(Note: l=b=h)
-## Date:
+## Date: 14/08/2025
 ## Aim:
 To write a C++ program to create a class Square and calculate the volume of the square (cube), making use of a static member variable to count the number of objects created.
 
