@@ -1,6 +1,6 @@
 # Ex.No:5
 # Ex.Name: Write A CPP Program to allocate memory dynamically for an integer variable. (Note: p_var = new typename;)
-## Date:
+## Date: 14/08/2025
 ## Aim:
 To write a C++ program to allocate memory dynamically for an integer variable using the new operator.
 
